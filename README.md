@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganeshsai165 
-- 👀 I’m interested in software (specialized in software testing)
+- 👀 I’m interested in software industry (specialized in software testing)
 - 🌱 I’m currently well versed in Selenium with Java for web application Automation Testing 
 - 📫 How to reach me LinkedIn - www.linkedin.com/in/hari-venkata-sai-ganesh-lolla-22844a11b
 
